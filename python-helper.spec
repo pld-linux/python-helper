@@ -8,7 +8,7 @@ Summary:	Development library for quickly writing configurable applications and d
 Summary(pl.UTF-8):	Biblioteka programistyczna do szybkiego pisania konfigurowalnych aplikacji i demonów
 Name:		python-helper
 Version:	2.4.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/helper
