@@ -11,7 +11,7 @@ Version:	2.4.2
 Release:	2
 License:	BSD
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/helper
+#Source0Download: https://pypi.org/simple/helper/
 Source0:	https://files.pythonhosted.org/packages/source/h/helper/helper-%{version}.tar.gz
 # Source0-md5:	b5646fd7a2e6a73b08d221e9d9e654e4
 URL:		https://github.com/gmr/helper
